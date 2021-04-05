@@ -17,7 +17,7 @@ Escrever em um blog pessoal é um grande desafio para mim, pretendo escrever sob
 - MySQL
 - Docker
 - Ansible
-- Gitlab CI
+- Gitlab CI/CD
 - Zabbix
 - Git/Github
 - Flask
