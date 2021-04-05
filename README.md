@@ -3,7 +3,7 @@
 ## Criando posts
 Para criar um novo post use o comando abaixo para gerar o arquivo no formato padrão:
 ```
-$  bundle exec jekyll post "Your New Post" --timestamp-format "%Y-%m-%d"
+$  bundle exec jekyll post "O título do seu post" --timestamp-format "%Y-%m-%d %H:%M:%S"
 ```
 Não esquece de abrir uma [issue](https://github.com/ricardotenv/blog/issues) antes falando sobre o post.
 
