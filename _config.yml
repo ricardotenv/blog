@@ -27,3 +27,13 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+# Jekyll Compose settings
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      subtitle:
+      categories:
+    posts:
+      subtitle:
+      categories:
