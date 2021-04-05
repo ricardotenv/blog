@@ -3,7 +3,7 @@ layout: post
 title: Adicionando um domínio personalizado na Vercel
 date: '2021-04-05 01:53:11'
 subtitle: ...com Google Domains
-categories: [Web]
+categories: [web]
 ---
 Pra quem ainda não conhece a [Vercel](https://vercel.com/) e já conhece a [Netlify](https://www.netlify.com/) não tenho muito o que dizer, as duas fazem basicamente a mesma coisa, hospedam sites estáticos com deploy automático. Eu achei a interface da segunda mais bonita mas a primeira é mais fácil de "deployar", porém as diferenças são mínimas, eu escolhi a [Vercel](https://vercel.com/) para servir esse blog simplesmente porque está na moda. 🤷‍♂️
 
