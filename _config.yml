@@ -37,3 +37,7 @@ jekyll_compose:
     posts:
       subtitle:
       categories:
+
+google:
+  tag_manager:
+    container_id: GTM-T2XC6Q3
